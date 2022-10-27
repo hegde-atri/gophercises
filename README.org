@@ -1,0 +1,6 @@
+#+title: README
+#+author: Atri Hegde
+#+description: Readme file for hegde-atri/gophercises
+
+* Gophercises
+These are projects I made whilst learning golang.
